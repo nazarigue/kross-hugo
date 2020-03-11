@@ -4,21 +4,24 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Go 360 degree in education"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
+name = "Go Academy"
+weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 4
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
